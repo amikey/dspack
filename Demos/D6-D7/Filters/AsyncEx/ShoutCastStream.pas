@@ -248,7 +248,7 @@ var
   MetaUrl: string;
   ErrMsg: string;
 begin
-  { -> This section includes the streamparser,fileripper and buffer abilties <-
+  { -> This section includes the streamparser,fileripper and buffer abilities <-
                todo: - code cleaning
                      - better helper functions or helper classes
   }
